@@ -1,0 +1,15 @@
+Name: KARTICK
+Age: 21
+Salary: 500000.000000
+Name: Sam
+Age: 50
+Salary: 10000.000000
+Name: Raj
+Age: 20000
+Salary: 10000.000000
+Name: Susan
+Age: 54
+Salary: 23513.000000
+Name: Karen
+Age: 35
+Salary: 12655.000000
